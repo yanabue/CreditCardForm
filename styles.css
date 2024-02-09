@@ -19,7 +19,7 @@ body{
 }
 
 .left-panel{
-    background-image: url("./images/bg-main-desktop.png");
+    background-image: url("bg-main-desktop.png");
     height: 100vh;
     width: 30%;
     max-width: 400px;
@@ -91,7 +91,7 @@ button{
     height: 200px;
     width:370px;
     border-radius: 10px;
-    background-image: url("images/bg-card-front.png");
+    background-image: url("bg-card-front.png");
     z-index: 10;
     position: absolute;
     left: 10%;
@@ -151,7 +151,7 @@ button{
     height: 200px;
     width:370px;
     border-radius: 10px;
-    background-image: url("images/bg-card-back.png");
+    background-image: url("bg-card-back.png");
     z-index: 9;
     position: absolute;
     left: 15%;
@@ -177,7 +177,7 @@ button{
     }
 
     .left-panel{
-        background-image: url("images/bg-main-mobile.png");
+        background-image: url("bg-main-mobile.png");
         width:100%;
         z-index: 0;
         background-repeat: no-repeat;
